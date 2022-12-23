@@ -1,1 +1,3 @@
 node_modules
+.esclintrc.js
+babel.config.js
